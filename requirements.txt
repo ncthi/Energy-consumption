@@ -1,0 +1,6 @@
+torch
+codecarbon
+timm
+carbontracker
+eco2ai
+pandas
